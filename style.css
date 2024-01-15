@@ -387,6 +387,12 @@ form{
         text-align: center;
         font-size: 1vw;
     }
+    header a:hover{
+        color:#008AFC;
+        text-decoration: underline;
+        font-weight: bold;
+        font-size: 1.5vw;
+       }
     h1 {
         font-size: 5.5vw;
     }
